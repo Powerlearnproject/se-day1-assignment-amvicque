@@ -122,5 +122,5 @@ Why this is more effective
   Detailed Subject: It offers a precise scenario: a cat stealing pizza from a sleeping person.
 Explanation of Improvements:
   The word count provides a limit, so the AI doesn't generate an excessively long response.
-  The subject of the story gives the AI a very specific idea of what the user wants.
+  The subject of the story gives the AI a very specific idea of what the user wants
 
